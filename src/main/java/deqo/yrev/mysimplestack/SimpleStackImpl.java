@@ -3,6 +3,10 @@ package deqo.yrev.mysimplestack;
 import java.util.EmptyStackException;
 import java.util.Stack;
 
+/* created by yan revuz
+   Commentaire correspondant à l'exigence 3
+ */
+
 public class SimpleStackImpl implements SimpleStack {
 
     private Stack<Item> pile;
