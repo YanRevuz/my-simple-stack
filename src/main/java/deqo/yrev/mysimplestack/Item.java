@@ -10,6 +10,9 @@ public class Item  {
         this.nom=nom;
     }
 
+    /*
+     un commentaire correspondant à l'exigence, #1
+     */
     public String getString(){
         return this.nom;
     }
